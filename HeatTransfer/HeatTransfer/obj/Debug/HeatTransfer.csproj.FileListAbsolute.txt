@@ -1,0 +1,10 @@
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\bin\Debug\HeatTransfer.exe.config
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\bin\Debug\HeatTransfer.exe
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\bin\Debug\HeatTransfer.pdb
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.Properties.Resources.resources
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.csproj.GenerateResource.Cache
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.exe
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.pdb
+C:\Users\Rubix Cube\source\repos\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.HeatTransfer.resources
