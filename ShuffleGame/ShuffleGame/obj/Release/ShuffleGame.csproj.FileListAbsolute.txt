@@ -1,0 +1,10 @@
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\bin\Release\ShuffleGame.exe.config
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\bin\Release\ShuffleGame.exe
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\bin\Release\ShuffleGame.pdb
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\obj\Release\ShuffleGame.csprojResolveAssemblyReference.cache
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\obj\Release\ShuffleGame.Form1.resources
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\obj\Release\ShuffleGame.Properties.Resources.resources
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\obj\Release\ShuffleGame.csproj.GenerateResource.Cache
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\obj\Release\ShuffleGame.csproj.CoreCompileInputs.cache
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\obj\Release\ShuffleGame.exe
+C:\Users\Rubix Cube\source\repos\ShuffleGame\ShuffleGame\obj\Release\ShuffleGame.pdb
