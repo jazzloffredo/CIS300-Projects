@@ -1,0 +1,10 @@
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\bin\Debug\HitoriPuzzle.exe.config
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\bin\Debug\HitoriPuzzle.exe
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\bin\Debug\HitoriPuzzle.pdb
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\obj\Debug\HitoriPuzzle.UserInterface.resources
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\obj\Debug\HitoriPuzzle.Properties.Resources.resources
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\obj\Debug\HitoriPuzzle.csproj.GenerateResource.Cache
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\obj\Debug\HitoriPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\obj\Debug\HitoriPuzzle.exe
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\obj\Debug\HitoriPuzzle.pdb
+C:\Users\Rubix Cube\source\repos\HitoriPuzzle\HitoriPuzzle\obj\Debug\HitoriPuzzle.csprojResolveAssemblyReference.cache
